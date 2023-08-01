@@ -1,0 +1,155 @@
+{
+    "menu": {
+        "appetizers": [
+            {
+                "id": 1,
+                "name": "Garlic Bread",
+                "price": 450,
+                "description": "Freshly baked garlic bread with a hint of herbs.",
+                "image": "https://images.pexels.com/photos/13698106/pexels-photo-13698106.jpeg?auto=compress&cs=tinysrgb&w=1600"
+            },
+            {
+                "id": 2,
+                "name": "Caesar Salad",
+                "price": 545,
+                "description": "Romaine lettuce, croutons, parmesan cheese, and Caesar dressing.",
+                "image": "https://images.pexels.com/photos/1211887/pexels-photo-1211887.jpeg?auto=compress&cs=tinysrgb&w=1600"
+            },
+            {
+                "id": 3,
+                "name": "Spring Rolls",
+                "price": 380,
+                "description": "Crispy vegetable spring rolls served with sweet chili sauce.",
+                "image": "https://images.pexels.com/photos/9406092/pexels-photo-9406092.jpeg?auto=compress&cs=tinysrgb&w=1600"
+            }
+        ],
+        "main_courses": [
+            {
+                "id": 4,
+                "name": "Grilled Salmon",
+                "price": 1590,
+                "description": "Grilled salmon fillet served with lemon butter sauce and seasonal vegetables.",
+                "image": "https://images.pexels.com/photos/7627407/pexels-photo-7627407.jpeg?auto=compress&cs=tinysrgb&w=1600"
+            },
+            {
+                "id": 5,
+                "name": "Chicken Alfredo",
+                "price": 1599,
+                "description": "Creamy Alfredo sauce tossed with fettuccine and grilled chicken.",
+                "image": "https://i.pinimg.com/236x/1f/6d/61/1f6d61c8a4a02b277d7354ab27d19cba.jpg"
+            },
+            {
+                "id": 6,
+                "name": "Vegetable Stir Fry",
+                "price": 1299,
+                "description": "Assorted vegetables stir-fried in a savory sauce served over steamed rice.",
+                "image": "https://i.pinimg.com/236x/c6/41/85/c641851e972463bef2c3419c3ffa6452.jpg"
+            },
+            {
+                "id": 7,
+                "name": "Classic Cheese Pizza",
+                "price": 1299,
+                "description": "Tomato sauce, mozzarella cheese",
+                "image": "https://i.pinimg.com/236x/cc/9e/57/cc9e57beae6969c00101199dc1c27cfd.jpg"
+            },
+            {
+                "id": 8,
+                "name": "Pepperoni Pizza",
+                "price": 1499,
+                "description": "Tomato sauce, mozzarella cheese, pepperoni",
+                "image": "https://images.pexels.com/photos/4109080/pexels-photo-4109080.jpeg?auto=compress&cs=tinysrgb&w=1600"
+            },
+            {
+                "id": 9,
+                "name": "Cheeseburger(with a side of fries)",
+                "price": 1199,
+                "description": "Juicy beef patty topped with cheese, lettuce, tomato, and pickles.",
+                "image": "https://images.pexels.com/photos/2271107/pexels-photo-2271107.jpeg?auto=compress&cs=tinysrgb&w=1600"
+            },
+            {
+                "id": 10,
+                "name": "Ribeye Steak",
+                "price": 1999,
+                "description": "Juicy ribeye steak cooked to your preference, served with mashed potatoes.",
+                "image": "https://i.pinimg.com/236x/8b/69/2f/8b692f84a57922d96b2c933481a7c94f.jpg"   
+            }
+        ],
+        "desserts": [
+            {
+                "id": 11,
+                "name": "Chocolate Lava Cake",
+                "price": 699,
+                "description": "Rich chocolate cake with a gooey molten center, served with vanilla ice cream.",
+                "image": "https://images.pexels.com/photos/1854652/pexels-photo-1854652.jpeg?auto=compress&cs=tinysrgb&w=1600"
+            },
+            {
+                "id": 12,
+                "name": "Tiramisu",
+                "price": 599,
+                "description": "Classic Italian dessert made with coffee-soaked ladyfingers and mascarpone cheese.",
+                "image": "https://media.istockphoto.com/id/585178794/photo/tiramisu.jpg?b=1&s=612x612&w=0&k=20&c=vIH1QSk1Uvcv2Dvq_UyzuCFF7zZXFl7CvMKnmJk0LD0="
+            },
+            {
+                "id": 13,
+                "name": "Fruit Sorbet",
+                "price": 499,
+                "description": "Refreshing fruit sorbet in various flavors.",
+                "image": "https://i.pinimg.com/236x/5a/2a/a9/5a2aa97384715d6119cf3091d8befa3a.jpg"
+            }
+        ],
+        "beverages": [
+            {
+                "id": 14,
+                "name": "Soft Drinks",
+                "price": 249,
+                "description": "Assorted soft drinks and sodas.",
+                "image": "https://restaurentapp.s3.eu-west-1.amazonaws.com/categoryImages/1573202309.jpg"
+            },
+            {
+                "id": 15,
+                "name": "Iced Tea",
+                "price": 299,
+                "description": "Refreshing iced tea with a choice of flavors.",
+                "image": "https://restaurentapp.s3.eu-west-1.amazonaws.com/categoryImages/1573202445.jpg"
+            },
+            {
+                "id": 16,
+                "name": "Freshly Brewed Coffee",
+                "price": 299,
+                "description": "A cup of freshly brewed coffee.",
+                "image": "https://restaurentapp.s3.eu-west-1.amazonaws.com/categoryImages/1556878443.jpg"
+            }
+        ],
+        "breakfast": [
+            {
+                "id": 17,
+                "name": "Pancakes",
+                "price": 450,
+                "description": "Delicious fluffy pancakes served with maple syrup.",
+                "image": "https://restaurentapp.s3.eu-west-1.amazonaws.com/productImages/1592393200.jpg"
+            },
+            {
+                "id": 18,
+                "name": "Eggs Benedict",
+                "price": 350,
+                "description": "Poached eggs served on an English muffin with hollandaise sauce.",
+                "image": "https://images.pexels.com/photos/2122294/pexels-photo-2122294.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            },
+            {
+                "id": 19,
+                "name": "French Toast",
+                "price": 399,
+                "description": "Thick slices of bread soaked in a mixture of eggs and milk, then fried until golden brown.",
+                "image" : "https://images.pexels.com/photos/4397314/pexels-photo-4397314.jpeg?auto=compress&cs=tinysrgb&w=1600"
+            },
+            {
+                "id": 20,
+                "name": "Chicken Fajita Omelette",
+                "price": 799,
+                "description": "Fluffy omelette with your choice of fillings: cheese, ham, peppers, onions, etc.",
+                "image": "https://cafejavasmedia.s3.af-south-1.amazonaws.com/productImages/1682844988.jpg"
+                
+            }
+        ]
+    }
+  }
